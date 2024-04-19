@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aftab22
-- 👀 I’m a web engineer with 4 years of experience working in retain & ecommerce space.
-- 🌱 I’m currently learning Api design and development.
+- 👀 I’m a web engineer with 6+ years of experience working in retain & ecommerce space.
 - 📫 You can reach out to me via aftab_faisal@outlook.com.
 
 <!---
