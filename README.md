@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Aftab22
+- 👋 Hi, I’m Aftab Faisal.
+- I am from Bangalore India.
 - 👀 I’m a web engineer with 6+ years of experience working in retain & ecommerce space.
 - 📫 You can reach out to me via aftab_faisal@outlook.com.
 
